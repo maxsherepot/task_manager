@@ -1,0 +1,12 @@
+
+.text-important {
+    font-weight: 500;
+    color: rgb(80, 0, 0);
+}
+
+.text-done {
+    text-decoration: line-through;
+}
+
+
+
